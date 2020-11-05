@@ -15,3 +15,13 @@ background-color: #e9e581;
 border 1px #000000; 
 padding: 5px; 
 }
+
+a {
+  color: #dd0000;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #880000;
+}
+  
