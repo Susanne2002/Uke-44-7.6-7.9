@@ -19,7 +19,7 @@ padding: 5px;
 a {
   color: #dd0000;
   font-weight: bold;
-    text-decoration: none;
+    text-decoration: none; /* fjerner strekene under linkene */
 }
 
 a:hover {
