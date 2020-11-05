@@ -1,0 +1,15 @@
+table {
+border-collapse: collapse; /* fjerner mellomrom mellom rader/kolonner */
+}
+
+th {
+background-color: #a2ab58;
+border: 1px #000000; 
+padding: 5px;
+}
+
+td {
+background-color: #e9e581;
+border 1px #000000; 
+padding: 5px; 
+}
