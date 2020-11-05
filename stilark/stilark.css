@@ -1,5 +1,6 @@
 table {
 border-collapse: collapse; /* fjerner mellomrom mellom rader/kolonner */
+border-style: solid;
 }
 
 th {
